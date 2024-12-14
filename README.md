@@ -1,7 +1,7 @@
 # ✍🏻 Trabalho de Inteligecia Artificial para a cadeira de Fundamentos de IA da Universidade Ulbra!
 
 - 💻 Vscode, JavaScript, HTML, CSS
-- 💡 A ideia é criar um jogo de damas
+- 💡 A ideia é criar um jogo de damas usando IA para jogar contra
 - ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge)
 
 
