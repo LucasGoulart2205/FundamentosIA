@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Docker" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+  <img align="center" alt="Lucas-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg""   >
   <img align="right" alt="Lucas-gif" height="200" width="230" src="https://i.pinimg.com/originals/86/9c/5b/869c5ba091b69122cb8a27e2bfeea909.gif">
   
 </div>
