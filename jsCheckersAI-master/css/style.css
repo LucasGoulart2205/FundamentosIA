@@ -1,0 +1,62 @@
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+
+.game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+
+button {
+    position: relative;
+    padding: 10px 20px;
+    border-radius: 7px;
+    border: 1px solid rgb(61, 106, 255);
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    background: transparent;
+    color: #ffffff;
+    overflow: hidden;
+    box-shadow: 0 0 0 0 transparent;
+    transition: all 0.2s ease-in;
+}
+
+button:hover {
+    background: rgb(61, 106, 255);
+    box-shadow: 0 0 30px 5px rgba(0, 142, 236, 0.815);
+    color: #ffffff;
+}
+
+button:active {
+    box-shadow: 0 0 0 0 transparent;
+    transition: box-shadow 0.2s ease-in;
+}
+
+
+#score-board {
+    text-align: center;
+    font-size: 18px;
+    background-color: #444;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: 1px solid #555;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+
+svg#checkersBoard {
+    border: 2px solid #fff;
+}
